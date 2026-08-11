@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0014-longest-common-prefix) |
+| [3366-minimum-array-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/3366-minimum-array-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3366-minimum-array-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/3366-minimum-array-sum) |
 <!---LeetCode Topics End-->
