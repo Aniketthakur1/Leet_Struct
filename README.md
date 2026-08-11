@@ -28,9 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
