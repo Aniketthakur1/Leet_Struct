@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0136-single-number) |
 | [3366-minimum-array-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/3366-minimum-array-sum) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0136-single-number) |
 ## Linked List
 |  |
 | ------- |
