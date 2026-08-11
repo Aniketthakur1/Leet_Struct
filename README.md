@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3366-minimum-array-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/3366-minimum-array-sum) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
