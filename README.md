@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0014-longest-common-prefix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0136-single-number) |
 | [3366-minimum-array-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/3366-minimum-array-sum) |
 ## Hash Table
@@ -53,9 +54,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0112-path-sum) |
@@ -73,7 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniketthakur1/Leet_Struct/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
